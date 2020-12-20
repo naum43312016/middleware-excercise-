@@ -1,0 +1,22 @@
+{
+  "name": "middleware-excercise-naum43312016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israeltechchallenge/middleware-excercise-naum43312016.git"
+  },
+  "author": "Naum Asafov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israeltechchallenge/middleware-excercise-naum43312016/issues"
+  },
+  "homepage": "https://github.com/israeltechchallenge/middleware-excercise-naum43312016#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

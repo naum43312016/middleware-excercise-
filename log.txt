@@ -1,0 +1,5 @@
+{"url":"/","method":"GET","Duration":6}
+{"url":"/","method":"GET","Duration":6}
+{"url":"/add","method":"POST","Duration":2}
+{"url":"/add","method":"POST","Duration":1}
+{"url":"/add","method":"POST","Duration":"6 ms"}
